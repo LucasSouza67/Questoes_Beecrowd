@@ -1,5 +1,5 @@
 # Questoes_Beecrowd
-<p>Questões da plataforma Beecrowd resolvidas na linguagem Java</p>
+<p>Este repositório contém soluções em Java para diversos problemas e desafios de programação, abrangendo diferentes áreas e níveis de dificuldade.</p>
 
 # issues_Beecrowd
-<p>Beecrowd platform issues resolved in Java language</p>
+<p>This repository contains Java solutions for various programming problems and challenges, covering different areas and difficulty levels.</p>
