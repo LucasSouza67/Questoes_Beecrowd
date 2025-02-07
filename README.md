@@ -1,5 +1,5 @@
 # Questoes_Beecrowd
-<p>Questões da plataforma Becrowd  resolvidas na linguagem Java</p>
+<p>Questões da plataforma Beecrowd resolvidas na linguagem Java</p>
 
 # issues_Beecrowd
-<p>Becrowd platform issues resolved in Java language</p>
+<p>Beecrowd platform issues resolved in Java language</p>
